@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <string name="denji">Denji</string>
+    <string name="denji_year">2022</string>
+    <string name="zero_two">Zero Two</string>
+    <string name="zero_two_year">2018</string>
+    <string name="sanji">Sanji</string>
+    <string name="sanji_year">1999</string>
+    <string name="naruto">Naruto</string>
+    <string name="naruto_year">2002</string>
+    <string name="mio">Mio</string>
+    <string name="mio_year">2010</string>
+</resources>
